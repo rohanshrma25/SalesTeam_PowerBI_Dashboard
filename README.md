@@ -13,9 +13,8 @@ New table made specifically for date bifurcation
 
 <figure>
   <img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/86998541-023d-420f-940e-22fcd40e0375" alt="Power BI Dashboard" style="width:500px">
-</figure>
-
-
+</figure>  
+  
 **2. Monthly Revenue Trends:**  
 Line-and-bar graph comparing actual revenue against budget using python script, special color coding for column where revenue is less than budget
 ```
