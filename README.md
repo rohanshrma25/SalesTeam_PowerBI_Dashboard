@@ -8,8 +8,8 @@ This Power BI dashboard provides a comprehensive analysis of sales team performa
 
 ## Features
 
-1. Filter dashboard by year:
-A new table made specifically for date bifurcation
+1. Filter Dashboard by Year:
+New table made specifically for date bifurcation
 
 ![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/86998541-023d-420f-940e-22fcd40e0375)
 
@@ -64,7 +64,11 @@ Table listing the top/bottom-performing peramenters based on revenue.
 
 8. Supervisor Performance:
 Table showing individual supervisor and manager performance.
-Includes total revenue, quantity, and percentage contribution.
+Includes measures for total revenue, quantity, and percentage of total.
+
+![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/0214e7db-d6fb-4657-a9ac-b6996fb376cb)
+*Measure to calculate percentage of total*
+
 
 ## Usage
 Open the Power BI file (sales_unit_performance.pbix).
