@@ -15,17 +15,7 @@ New table made specifically for date bifurcation
   <img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/86998541-023d-420f-940e-22fcd40e0375" alt="Power BI Dashboard" style="width:500px">
 </figure>
 
-
-1. **Total Transactions, Quantity, and Revenue:**  
-Quickly view the KPI's. Understand the scale of transactions, quantity sold, and total revenue.
-
-2. **Total Revenue by Manager:**  
-Pie chart showing revenue distribution between managers. Helps to identify top-performing managers.
-
-3. **Total Revenue by Channel:**  
-Pie chart displaying revenue split across different channels (Retail, Distributor, Online). Understand which channels contribute the most to overall revenue.
-
-4. **Monthly Revenue Trends:**  
+**2. Monthly Revenue Trends:**  
 Line-and-bar graph comparing actual revenue against budget using python script, special color coding for bar where revenue < budget
 ```
 dataset = pandas.DataFrame(Total Budget, Total Revenue, Month, Year)
@@ -60,12 +50,19 @@ ax2.spines['top'].set_visible(False)
 plt.show()
 ```
 
-6. **Top/Bottom 'n' ProductGroups / ProductName /Salesperson:**  
+**1. Total Transactions, Quantity, and Revenue:**  
+Quickly view the KPI's. Understand the scale of transactions, quantity sold, and total revenue.
+
+**2. Total Revenue by Manager:**  
+Pie chart showing revenue distribution between managers. Helps to identify top-performing managers.
+
+**3. Total Revenue by Channel:**  
+Pie chart displaying revenue split across different channels (Retail, Distributor, Online). Understand which channels contribute the most to overall revenue.
+
+**6. Top/Bottom 'n' ProductGroups / ProductName /Salesperson:**  
 Table listing the top/bottom-performing peramenters based on revenue.
 
-
-
-8. **Supervisor Performance:**  
+**8. Supervisor Performance:**  
 Table showing individual supervisor and manager performance.
 Includes measures for total revenue, quantity, and percentage of total.
 
