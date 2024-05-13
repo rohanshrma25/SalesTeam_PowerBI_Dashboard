@@ -55,20 +55,19 @@ plt.show()
 Bar chart shows top pr bottom product name, product group or salesman (according to revenue) upon selection in muptiple parameters.  
 
 Step1: Created a numeric range parameter to let the user select the number of parameters to show  
-<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/a06d6f0c-a21a-430c-9db0-b7587704e101" width="400" height="200">
+<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/a06d6f0c-a21a-430c-9db0-b7587704e101" width="600" height="400">
 
-Step2: Created a table to select the order (top/bottom)  
-![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/88152139-f056-438c-95ad-574a97c169ea)  
-<img src="[image_url](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/a06d6f0c-a21a-430c-9db0-b7587704e101)" width="600" height="400">
+Step2: Created a table to select the order (top/bottom)    
+<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/88152139-f056-438c-95ad-574a97c169ea" width="600" height="400">
 
 Step3: Created a fields parameter to let user select the parameter the display in bar chart   
-![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/1560ed4e-dd4f-476e-8c9b-ef3b9531d3bc)  
+<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/1560ed4e-dd4f-476e-8c9b-ef3b9531d3bc" width="600" height="400">
 
 Step4: Created a new measure called ranking which connects both the parameters and the table discussed above  
-![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/31233022-2deb-4917-b4b6-6e1eda0fda64)  
+<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/31233022-2deb-4917-b4b6-6e1eda0fda64" width="600" height="400">
 
 Step5: Created a dynamic title that changes with selection   
-![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/89305fce-1d48-40c8-85bb-f32192b41891)
+<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/89305fce-1d48-40c8-85bb-f32192b41891" width="600" height="400">
 
 **4. Supervisor Performance:**  
 Table showing individual supervisor and manager performance.
