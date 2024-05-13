@@ -84,11 +84,9 @@ Quickly view the KPI's. Understand the scale of transactions, quantity sold, and
 Pie chart showing revenue distribution between managers. Helps to identify top-performing managers.
 
 **7. Total Revenue by Channel:**  
-Pie chart displaying revenue split across different channels (Retail, Distributor, Online). Understand which channels contribute the most to overall revenue.
+Pie chart displaying revenue split across different channels (Retail, Distributor, Online). Understand which channels contribute the most to overall revenue. Customised tooptip shows top salespeople for each channel
 
-Tooltip
-![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/c6bfc330-99b8-4aab-961c-e2527d00335b)
-
+<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/c6bfc330-99b8-4aab-961c-e2527d00335b" width="500" height="400">
 
 ## Usage
 Open the Power BI file (SalesTeamDashboard.pbix).  
