@@ -91,7 +91,7 @@ Tooltip
 
 
 ## Usage
-Open the Power BI file (sales_unit_performance.pbix).  
+Open the Power BI file (SalesTeamDashboard.pbix).  
 Interact with the visuals:  
 Explore revenue trends and channel performance.
 Drill down into specific product groups.
