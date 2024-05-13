@@ -9,7 +9,6 @@ This Power BI dashboard provides a comprehensive analysis of sales team performa
 ## Features
 
 1. Total Transactions, Quantity, and Revenue:
-
 Quickly view the overall performance metrics. Understand the scale of transactions, quantity sold, and total revenue.
 
 2. Total Revenue by Manager:
