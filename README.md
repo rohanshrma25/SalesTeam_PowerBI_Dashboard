@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Dynamic Power BI dashboard provides a comprehensive analysis of sales team performance. It offers insights into key metrics, revenue distribution, and performance trends. Whether you’re a sales manager or analyst, this dashboard helps you make informed decisions.
+This Dynamic Power BI dashboard provides a comprehensive analysis of sales team performance. It offers insights into key metrics, revenue distribution, and performance trends. Whether one is a sales manager or an analyst, this dashboard helps you make informed decisions.
 
 ![Screenshot 2024-05-13 140302](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/80e09473-df6a-41e7-859f-29945da26512)
 
