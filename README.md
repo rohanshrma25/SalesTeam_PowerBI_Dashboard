@@ -51,19 +51,10 @@ ax2.spines['top'].set_visible(False)
 plt.show()
 ```
 
-**1. Total Transactions, Quantity, and Revenue:**  
-Quickly view the KPI's. Understand the scale of transactions, quantity sold, and total revenue.
+**3. Top/Bottom 'n' ProductGroups / ProductName /Salesperson:**  
+Table listing the top/bottom-performing parameters based on revenue.
 
-**2. Total Revenue by Manager:**  
-Pie chart showing revenue distribution between managers. Helps to identify top-performing managers.
-
-**3. Total Revenue by Channel:**  
-Pie chart displaying revenue split across different channels (Retail, Distributor, Online). Understand which channels contribute the most to overall revenue.
-
-**6. Top/Bottom 'n' ProductGroups / ProductName /Salesperson:**  
-Table listing the top/bottom-performing peramenters based on revenue.
-
-**8. Supervisor Performance:**  
+**4. Supervisor Performance:**  
 Table showing individual supervisor and manager performance.
 Includes measures for total revenue, quantity, and percentage of total.
 
@@ -72,6 +63,14 @@ Includes measures for total revenue, quantity, and percentage of total.
   <figcaption>Measure to calculate percentage of total</figcaption>
 </figure>
 
+**5. Total Transactions, Quantity, and Revenue:**  
+Quickly view the KPI's. Understand the scale of transactions, quantity sold, and total revenue.
+
+**6. Total Revenue by Manager:**  
+Pie chart showing revenue distribution between managers. Helps to identify top-performing managers.
+
+**7. Total Revenue by Channel:**  
+Pie chart displaying revenue split across different channels (Retail, Distributor, Online). Understand which channels contribute the most to overall revenue.
 
 ## Usage
 Open the Power BI file (sales_unit_performance.pbix).  
