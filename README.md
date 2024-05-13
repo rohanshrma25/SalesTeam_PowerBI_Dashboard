@@ -61,7 +61,13 @@ Created a table to
 ![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/88152139-f056-438c-95ad-574a97c169ea)
 
 Created a Fields parameter
-![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/ef6ebf3f-a1a0-4009-8afd-e1983d753655)
+![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/1560ed4e-dd4f-476e-8c9b-ef3b9531d3bc)
+
+Ranking 
+![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/31233022-2deb-4917-b4b6-6e1eda0fda64)
+
+Title 
+![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/89305fce-1d48-40c8-85bb-f32192b41891)
 
 **4. Supervisor Performance:**  
 Table showing individual supervisor and manager performance.
@@ -80,6 +86,10 @@ Pie chart showing revenue distribution between managers. Helps to identify top-p
 
 **7. Total Revenue by Channel:**  
 Pie chart displaying revenue split across different channels (Retail, Distributor, Online). Understand which channels contribute the most to overall revenue.
+
+Tooltip
+![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/c6bfc330-99b8-4aab-961c-e2527d00335b)
+
 
 ## Usage
 Open the Power BI file (sales_unit_performance.pbix).  
