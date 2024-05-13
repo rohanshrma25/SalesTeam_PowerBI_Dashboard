@@ -16,16 +16,16 @@ New table made specifically for date bifurcation
 </figure>
 
 
-1. Total Transactions, Quantity, and Revenue:
+1. Total Transactions, Quantity, and Revenue:  
 Quickly view the overall performance metrics. Understand the scale of transactions, quantity sold, and total revenue.
 
-2. Total Revenue by Manager:
+2. Total Revenue by Manager:  
 Pie chart showing revenue distribution between managers. Helps to identify top-performing managers.
 
-3. Total Revenue by Channel:
+3. Total Revenue by Channel:  
 Pie chart displaying revenue split across different channels (Retail, Distributor, Online). Understand which channels contribute the most to overall revenue.
 
-4. Monthly Revenue Trends:
+4. Monthly Revenue Trends:  
 Line-and-bar graph comparing actual revenue against budget using python script, special color coding for bar where revenue < budget
 ```
 dataset = pandas.DataFrame(Total Budget, Total Revenue, Month, Year)
@@ -60,12 +60,12 @@ ax2.spines['top'].set_visible(False)
 plt.show()
 ```
 
-6. Top/Bottom 'n' ProductGroups / ProductName /Salesperson:
+6. Top/Bottom 'n' ProductGroups / ProductName /Salesperson:  
 Table listing the top/bottom-performing peramenters based on revenue.
 
 
 
-8. Supervisor Performance:
+8. Supervisor Performance:  
 Table showing individual supervisor and manager performance.
 Includes measures for total revenue, quantity, and percentage of total.
 
