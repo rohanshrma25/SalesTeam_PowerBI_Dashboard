@@ -17,7 +17,7 @@ New table made specifically for date bifurcation
 
 
 **2. Monthly Revenue Trends:**  
-Line-and-bar graph comparing actual revenue against budget using python script, special color coding for bar where revenue < budget
+Line-and-bar graph comparing actual revenue against budget using python script, special color coding for column where revenue is less than budget
 ```
 dataset = pandas.DataFrame(Total Budget, Total Revenue, Month, Year)
 dataset = dataset.drop_duplicates()
@@ -53,6 +53,15 @@ plt.show()
 
 **3. Top/Bottom 'n' ProductGroups / ProductName /Salesperson:**  
 Table listing the top/bottom-performing parameters based on revenue.
+
+Created a numeric range parameter to let the user select the number of parameters to show
+![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/a06d6f0c-a21a-430c-9db0-b7587704e101)
+
+Created a table to 
+![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/88152139-f056-438c-95ad-574a97c169ea)
+
+Created a Fields parameter
+![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/ef6ebf3f-a1a0-4009-8afd-e1983d753655)
 
 **4. Supervisor Performance:**  
 Table showing individual supervisor and manager performance.
