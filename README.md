@@ -55,16 +55,21 @@ plt.show()
 6. Top/Bottom 'n' ProductGroups / ProductName /Salesperson:
 Table listing the top/bottom-performing peramenters based on revenue.
 
-7. Supervisor Performance:
+
+
+8. Supervisor Performance:
 Table showing individual supervisor and manager performance.
 Includes total revenue, quantity, and percentage contribution.
 
 ## Usage
 Open the Power BI file (sales_unit_performance.pbix).
 Interact with the visuals:
-Filter by year, product name, or salesperson.
 Explore revenue trends and channel performance.
 Drill down into specific product groups.
+Filter by year, product name, or salesperson.
+
+![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/ae7f2231-c517-43be-8a3b-af8a93a3de61)
+
 
 ## Contributing
 We welcome contributions! If you have suggestions, bug fixes, or feature requests, feel free to submit a pull request.
