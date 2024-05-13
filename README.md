@@ -8,6 +8,12 @@ This Power BI dashboard provides a comprehensive analysis of sales team performa
 
 ## Features
 
+```python
+def hello():
+    print("Hello, world!")
+```
+
+
 1. Total Transactions, Quantity, and Revenue:
 Quickly view the overall performance metrics. Understand the scale of transactions, quantity sold, and total revenue.
 
@@ -19,9 +25,9 @@ Pie chart displaying revenue split across different channels (Retail, Distributo
 
 4. Monthly Revenue Trends:
 Line-and-bar graph comparing actual revenue against budget using python script, special color coding for bar where revenue < budget
-'''
-# dataset = pandas.DataFrame(Total Budget, Total Revenue, Month, Year)
-# dataset = dataset.drop_duplicates()
+```
+dataset = pandas.DataFrame(Total Budget, Total Revenue, Month, Year)
+dataset = dataset.drop_duplicates()
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -50,7 +56,7 @@ ax.spines['top'].set_visible(False)
 ax2.spines['top'].set_visible(False)
 
 plt.show()
-'''
+```
 
 6. Top/Bottom 'n' ProductGroups / ProductName /Salesperson:
 Table listing the top/bottom-performing peramenters based on revenue.
