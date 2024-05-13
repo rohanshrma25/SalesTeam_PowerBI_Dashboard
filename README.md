@@ -8,7 +8,7 @@ This Dynamic Power BI dashboard provides a comprehensive analysis of sales team 
 
 ## Features
 
-1. **Filter Dashboard by Year:**  
+**1. Filter Dashboard by Year:**  
 New table made specifically for date bifurcation
 
 <figure>
