@@ -58,10 +58,10 @@ Step1: Created a numeric range parameter to let the user select the number of pa
 <img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/a06d6f0c-a21a-430c-9db0-b7587704e101" width="600" height="500">
 
 Step2: Created a table to select the order (top/bottom)    
-<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/88152139-f056-438c-95ad-574a97c169ea" width="100" height="100">
+<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/88152139-f056-438c-95ad-574a97c169ea" width="150" height="100">
 
 Step3: Created a fields parameter to let user select the parameter the display in bar chart   
-<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/1560ed4e-dd4f-476e-8c9b-ef3b9531d3bc" width="600" height="600">
+<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/1560ed4e-dd4f-476e-8c9b-ef3b9531d3bc" width="700" height="550">
 
 Step4: Created a new measure called ranking which connects both the parameters and the table discussed above  
 <img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/31233022-2deb-4917-b4b6-6e1eda0fda64" width="600" height="350">
