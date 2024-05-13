@@ -55,7 +55,7 @@ plt.show()
 Bar chart shows top pr bottom product name, product group or salesman (according to revenue) upon selection in muptiple parameters.  
 
 Step1: Created a numeric range parameter to let the user select the number of parameters to show  
-![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/a06d6f0c-a21a-430c-9db0-b7587704e101)  
+<img src="[image_url](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/a06d6f0c-a21a-430c-9db0-b7587704e101)" alt="Image Description" width="400" height="200">
 
 Step2: Created a table to select the order (top/bottom)  
 ![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/88152139-f056-438c-95ad-574a97c169ea)  
