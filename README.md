@@ -19,35 +19,23 @@ Pie chart displaying revenue split across different channels (Retail, Distributo
 
 4. Monthly Revenue Trends:
 Line-and-bar graph comparing actual revenue against budget using python script, special color coding for bar where revenue < budget
-'''# dataset = pandas.DataFrame(Total Budget, Total Revenue, Month, Year)
-# dataset = dataset.drop_duplicates()
-
+'''
 import matplotlib.pyplot as plt
 import pandas as pd
-
 bar_colors = ['r' if revenue < budget else '#1d4259' for revenue, budget in zip(dataset['Total Revenue'], dataset['Total Budget'])]
-
 fig, ax = plt.subplots(figsize=(9, 3))
-
 plt.bar(dataset['Month'], dataset['Total Revenue'], color=bar_colors, label='Total Revenue')
-
 ax2 = ax.twinx()
 ax2.plot(dataset['Month'], dataset['Total Budget'], color='#5fadde', marker='o', label='Total Budget')
-
 ax.set_ylabel('Total Revenue')
 ax2.set_ylabel('Total Budget')
-
 ax.set_ylim(0, max(max(dataset['Total Revenue']), max(dataset['Total Budget'])))
 ax2.set_ylim(0, max(max(dataset['Total Revenue']), max(dataset['Total Budget'])))
-
 ax.legend(loc='upper left',fontsize='large',bbox_to_anchor=(0.03, 1.1))
 ax2.legend(loc='upper right',fontsize='large',bbox_to_anchor=(0.29, 0.95))
-
 plt.style.use('classic')
-
 ax.spines['top'].set_visible(False)
 ax2.spines['top'].set_visible(False)
-
 plt.show()'''
 
 6. Top/Bottom 'n' ProductGroups / ProductName /Salesperson:
