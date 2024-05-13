@@ -11,6 +11,9 @@ This Power BI dashboard provides a comprehensive analysis of sales team performa
 1. Filter Dashboard by Year:
 New table made specifically for date bifurcation
 
+<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/86998541-023d-420f-940e-22fcd40e0375" alt="Power BI Dashboard" width="500">
+*fewfewgrg*
+
 ![image](https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/86998541-023d-420f-940e-22fcd40e0375)
 
 1. Total Transactions, Quantity, and Revenue:
