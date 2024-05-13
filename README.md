@@ -17,7 +17,7 @@ New table made specifically for date bifurcation
 
 
 1. Total Transactions, Quantity, and Revenue:  
-Quickly view the overall performance metrics. Understand the scale of transactions, quantity sold, and total revenue.
+Quickly view the KPI's. Understand the scale of transactions, quantity sold, and total revenue.
 
 2. Total Revenue by Manager:  
 Pie chart showing revenue distribution between managers. Helps to identify top-performing managers.
@@ -76,12 +76,12 @@ Includes measures for total revenue, quantity, and percentage of total.
 
 
 ## Usage
-Open the Power BI file (sales_unit_performance.pbix).
-Interact with the visuals:
+Open the Power BI file (sales_unit_performance.pbix).  
+Interact with the visuals:  
 Explore revenue trends and channel performance.
 Drill down into specific product groups.
 Filter by year, product name, or salesperson.
 
 
 ## Contributing
-We welcome contributions! If you have suggestions, bug fixes, or feature requests, feel free to submit a pull request.
+Contributions are welcomed! If you have suggestions, bug fixes, or feature requests, feel free to submit a pull request.
