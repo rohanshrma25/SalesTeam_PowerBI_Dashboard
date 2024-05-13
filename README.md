@@ -70,7 +70,7 @@ Table showing individual supervisor and manager performance.
 Includes measures for total revenue, quantity, and percentage of total.
 
 <figure>
-  <img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/0214e7db-d6fb-4657-a9ac-b6996fb376cb" alt="Power BI Dashboard" style="width:400px">
+  <img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/0214e7db-d6fb-4657-a9ac-b6996fb376cb" alt="Power BI Dashboard" style="width:500px">
   <figcaption>Measure to calculate percentage of total</figcaption>
 </figure>
 
