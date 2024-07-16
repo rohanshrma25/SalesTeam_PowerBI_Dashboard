@@ -63,7 +63,7 @@ Step3: Created a fields parameter to let user select the parameter the display i
 <img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/1560ed4e-dd4f-476e-8c9b-ef3b9531d3bc" width="700" height="550">
 
 Step4: Created a measure which connects both the parameters and the table discussed above  
-<img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/31233022-2deb-4917-b4b6-6e1eda0fda64" width="700" height="400">
+<img src="https://github.com/user-attachments/assets/cac324b9-9000-41c4-8b46-4b4e79f77033" width="700" height="400">
 
 Step5: Created a dynamic title that changes with selection   
 <img src="https://github.com/rohanshrma25/SalesTeam_PowerBI_Dashboard/assets/143126097/89305fce-1d48-40c8-85bb-f32192b41891" width="650" height="200">
